@@ -29,4 +29,3 @@ Unity assets:
 - https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-4010
 - https://assetstore.unity.com/packages/2d/gui/icons/371-simple-buttons-pack-97516
 
-**I will add the codes as soon as possible!**
